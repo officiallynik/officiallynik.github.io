@@ -817,3 +817,12 @@ figure.effect-bubba:hover h2, figure.effect-bubba:hover p {
   line-height: 1.5em;
   margin: 0;
 }
+
+.project-link {
+  font-size: 14px;
+  opacity: 0.7;
+}
+.project-link:hover{
+  text-decoration: none;
+  opacity: 1;
+}
